@@ -3,7 +3,10 @@ title: Intro to Working With Web Components
 description: This is a post on working with web components.
 date: 2020-01-20
 tags:
-  - javascript webdev beginners programming
+  - javascript
+  - webdev
+  - beginners
+  - programming
 layout: layouts/post.njk
 ---
 If you have ever been on the internet or used a google, safari, or any kind of web browser, you have been exposed to JavaScript. I have been exposed to JavaScript for a long time and I am now finally learning how to start using it. I am excited to learn about what can be done in this area because it can lead to some incredible things being done and made. This post will be about how I started getting what I needed to create a web component.

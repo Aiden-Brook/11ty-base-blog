@@ -3,7 +3,9 @@ title: Using APIs to Fetch Data from Wikipedia
 description: This is a post about using APIs to fetch data from Wikipedia
 date: 2020-02-04
 tags:
-  - javascript beginners webdev
+  - javascript
+  - beginners
+  - webdev
 layout: layouts/post.njk
 ---
 APIs (Application Programming Interfaces) and microservices are changing the way companies implement IT systems. Many large organizations such as Amazon, Netflix, Uber, and many more are using hundreds of microservices in their systems. These microservices call on APIs to fetch data for a specific function. In this post, I will be using an IP/location API to query Wikipedia articles about my location. More information about microservices can be found [here](https://www.divante.com/blog/10-companies-that-implemented-the-microservice-architecture-and-paved-the-way-for-others)
